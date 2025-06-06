@@ -1,0 +1,5 @@
+streamlit
+google-cloud-vision
+google-generativeai
+fpdf
+pillow
